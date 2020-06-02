@@ -1,0 +1,9 @@
+.managerreference {
+  font-size: 95%;
+  clear: both;
+  bottom: 5px;
+  right: 15px;
+  position: absolute;
+  font-style: italic;
+}
+.messageclassic, .messageimportant, .messagewarning, .messagetip {  margin: 2em;  margin-left: auto;  margin-right: auto;  width: 70% !important;  min-height: 40px;  clear: both;  text-align: justify;  vertical-align: middle;  border-collapse: collapse;  padding: 15px 20px 15px 20px;  background-position: 20px 50%;  background-repeat: no-repeat;  -moz-border-radius: 20px;  -khtml-border-radius: 20px;  border-radius: 20px;  position: relative;} .messageclassic {  /*border: 1px solid #99D;*/  background-color: #eef;} .messageimportant {  /*border: 1px solid #ff0;*/  background-color: #ffc;} .messagewarning {  /*border: 1px solid #d99;*/  background-color: #fdd;  /* background-image: url(images/warning.png); */} .messagetip {  /*border: 1px solid #9d9;*/  background-color: #dfd;  /* background-image: url(images/tip.png); */}
